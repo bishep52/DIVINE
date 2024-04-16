@@ -201,7 +201,7 @@ a:hover {
 }
 
 .header {
-    background-image: url(images/secondpagebg.jpg);
+    background-image: url(./images/secondpagebg.jpg);
     min-height: 55.9vw;
     background-size: cover;
 }
