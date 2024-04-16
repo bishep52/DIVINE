@@ -201,7 +201,7 @@ a:hover {
 }
 
 .header {
-    background-image: url('manicurebg.jpg');
+    background-image: url('bg/manicurebg.jpg');
     min-height: 55.9vw;
     background-size: cover;
 }
